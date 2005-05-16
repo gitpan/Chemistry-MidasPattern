@@ -25,3 +25,4 @@ t/pats/17.pat
 t/pats/18.pat
 t/pod.t
 test.pdb
+META.yml                                 Module meta-data (added by MakeMaker)
